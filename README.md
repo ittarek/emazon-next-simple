@@ -1,0 +1,1 @@
+"# emazon-next-simple" 
